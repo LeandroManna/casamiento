@@ -47,7 +47,7 @@
 				<p>HOLA SOY ARIEL PIZZO</p>
 			</div> -->
 			<div class="imagen_principal">
-				<p>Andrea & Joaquin</p>
+				<p>Carito & Franco</p>
 			</div>
 			<div class="imagen_separadora"></div>
 			
