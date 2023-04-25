@@ -55,7 +55,7 @@
 				<p>NOS CASAMOS ...</p>
 			</div>
 			<div class="imagen_1"></div>
-			<div class="imagen_2"><p>NOS CONOCIMOS ...</p></div>
+			<div class="imagen_2"><p>NOS CONOCIMOS Ayer</p></div>
 			<div class="imagen_3"><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque fugit nobis sunt, ad eius iste ipsum excepturi pariatur cum quibusdam molestiae optio! Sint repellat asperiores nostrum quam quaerat odit numquam.</p></div>
 		</div>
 
